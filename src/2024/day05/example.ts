@@ -1,4 +1,4 @@
-import { PagesSequence, Rule } from "./day-05";
+import { PagesSequence, Rule } from "./index";
 
 export const rules: Rule[] = [
     [47, 53],

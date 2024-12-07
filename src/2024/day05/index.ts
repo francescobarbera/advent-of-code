@@ -1,4 +1,4 @@
-import { pagesSequences } from "./day-05.input";
+import { pagesSequences } from "./input";
 
 export type Rule = [number, number];
 export type PagesSequence = number[];
