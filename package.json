@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "yarn tsc",
+    "test": "node --test dist/**/*.test.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2"
+  }
+}
